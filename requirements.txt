@@ -1,6 +1,6 @@
 numpy==1.26.4
-streamlit==1.38.0
-cv2==
+streamlit==1.37.1
+opencv-python==4.10.0
 scipy==1.14.0
 ultralytics==8.2.75
 opencv-python==4.10.0
