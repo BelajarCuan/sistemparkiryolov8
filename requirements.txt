@@ -1,0 +1,8 @@
+numpy==1.26.4
+streamlit
+cv2==
+scipy==1.14.0
+ultralytics==8.2.75
+cv2==4.10.0
+tempfile
+time
