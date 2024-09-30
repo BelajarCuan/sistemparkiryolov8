@@ -176,7 +176,7 @@ elif input_source == "Video":
         video_cap.release()
 
 elif input_source == "Live Stream":
-    camera_index = 0  # Menggunakan kamera default (biasanya kamera laptop)
+    camera_index = 3  # Menggunakan kamera default (biasanya kamera laptop)
     video_cap = cv2.VideoCapture(camera_index)
     stframe = st.empty()
     warning_placeholder = st.empty()  # Tempat untuk menampilkan status slot kosong atau penuh
